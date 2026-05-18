@@ -7,7 +7,7 @@
 
 # **JÚLIA** — Se fosse dinossauro, seria brontossauro 🦕
 
-**ADS @ FATEC** • Sobrevivendo desde antes do framework existir
+• **ADS @ FATEC** • 
 
 🌿🦕🌿🦴🌿🦕🌿
 
@@ -41,6 +41,6 @@
 
 🌿🦕🌿🦴🌿🦕🌿
 <br>
-**Jubli**... • FATEC ADS
+**Jubli** • FATEC ADS
 
 </div>
