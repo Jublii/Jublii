@@ -35,7 +35,7 @@
 
 > *"Se a vida te der limões, faça um `try/catch`."*
 >
-> — meu professor de SO
+> — meu professor de SI
 
 ---
 
